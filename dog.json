@@ -1,0 +1,34 @@
+{
+    "dogbreeds": [
+        {
+            "breedType": "Beagle",
+            "name": "Jac",
+            "age": "5",
+            "sex": "male"
+        },
+        {
+            "breedType": "Terrier",
+            "name": "Doggi",
+            "age": "3",
+            "sex": "female"
+        },
+        {
+            "breedType": "Shepherd",
+            "name": "Sharick",
+            "age": "7",
+            "sex": "male"
+        },
+        {
+            "breedType": "Dachshund",
+            "name": "Nika",
+            "age": "2",
+            "sex": "female"
+        },
+        {
+            "breedType": "Poodle",
+            "name": "Den",
+            "age": "6",
+            "sex": "male"
+        }
+    ]
+}

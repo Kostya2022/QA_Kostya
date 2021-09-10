@@ -1,0 +1,32 @@
+<dogbreeds>
+    <breed>
+        <breedType>Beagle</breedType>
+        <name>Jac</name>
+      <age>5</age>
+      <sex>male</sex>
+    </breed>
+  <breed>
+        <breedType>Terrier</breedType>
+        <name>Doggi</name>
+      <age>3</age>
+      <sex>female</sex>
+    </breed>
+  <breed>
+        <breedType>Shepherd</breedType>
+        <name>Sharick</name>
+      <age>7</age>
+      <sex>male</sex>
+    </breed>
+  <breed>
+    <breedType>Dachshund</breedType>
+        <name>Nika</name>
+        <age>2</age>
+      <sex>female</sex>
+    </breed>  
+  <breed>
+      <breedType>Poodle</breedType>
+      <name>Den</name>
+      <age>6</age>
+      <sex>male</sex>
+    </breed>  
+</dogbreeds>
